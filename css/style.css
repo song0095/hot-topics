@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css?family=Bitter|Work+Sans');
+
+h1 {
+    font-family: 'Bitter', serif;
+    text-align: center;
+    font-size: 1.25rem;
+}
+
+p {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 1rem;
+}
+
+nav {
+    font-family: 'Bitter', serif;
+    font-size: 1.25rem;
+}
+
+.card-title {
+    font-family: 'Bitter', serif;
+    font-size: 1.25rem;
+    text-align: center;
+}
+
+.card-text {
+    text-align: center;
+}
+
+.main-content {
+    border-left: #dddddd 2px solid;
+    border-right: #dddddd 2px solid;
+    padding: 1rem;
+}
+
+.container header {
+    text-align: center;
+}
+
+.masthead img {
+    margin-top: 1erm;
+    margin-bottom: 1rem;
+    width: 100%;
+    height: 100px;
+}
+
+nav ul li a {
+    color: #233525;
+}
+
+nav ul li a:hover {
+    color: #ff3566;
+}
+
+h2 {
+    text-align: left;
+    font-size: 1.25rem;
+}
+
+article h2 {
+    padding-top: 1rem;
+    font-family: 'Bitter', serif;
+}
+
+article img {
+    text-align: center;
+    padding: 1rem;
+    width: 100%;
+    height: auto;
+}
+
+article p {
+    text-align: justify;
+}
+
+article ul li {
+    padding-top: 1rem;
+    line-height: 1.6rem;
+    text-align: justify;
+}
+
+footer {
+    text-align: center;
+    margin: 1rem;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 1.25rem;
+}
+
+footer ul li {
+    display: inline-block;
+    padding-left: 2rem;
+}
+
+footer ul li a {
+    color: #233525;
+}
+
+footer ul li a:hover {
+    color: #ff3566;
+}
+
+footer p {
+    margin-bottom: 0;
+    padding-left: 5rem;
+}
